@@ -3,8 +3,8 @@
 var AuthKeys = { // List of keys, instead of adding them manually in here
                  // you can just add a new route which accepts a secret key
                  // and adds a new key in this array.
-    TestKey: true,
-    Abc123: true
+    testedition: false,
+    aerchekey2022: true
 }
 
 
